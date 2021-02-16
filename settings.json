@@ -1,6 +1,6 @@
 {
   "source_path": "/home/anton/Desktop/screenshot/many-screenshots/test/1/",
-  "destination_path": "/home/anton/Desktop/screenshots/test/2/",
+  "destination_path": "/home/anton/Desktop/screenshot/many-screenshots/test/2/",
   "source_naming_pattern": "Screenshot",
   "destination_naming_pattern": "picture",
   "extension": "txt"
